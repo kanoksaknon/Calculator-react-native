@@ -1,3 +1,8 @@
+example my calculator
+
+![calculator-react-native](https://github.com/kanoksaknon/Calculator-react-native/assets/163635486/5a628132-98f5-4d93-a254-a3f043dd0d9e)
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
